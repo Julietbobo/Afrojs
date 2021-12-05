@@ -1,0 +1,29 @@
+
+
+.container{background-color: blue;
+           padding: 20px;
+           display: flex;
+           justify-content:center;
+           }
+.content{width: 700px;
+         height: 1000px;
+        background:coral;
+        padding: 40px;}
+h1{color:blue;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   font-family: 'Roboto', sans-serif;
+   text-shadow: 5px 0 5px grey, 0 3px 5px black;}
+img{width: 400px;
+    height: 300px;
+    padding-left: 150px;}
+p{font-family: 'Roboto', sans-serif;
+color: black;}
+ul li{font-family: 'Roboto', sans-serif;
+    color: black;}
+button{background-color: white;
+       color: black;
+       width: 100px;
+       height: 25px;}
+
